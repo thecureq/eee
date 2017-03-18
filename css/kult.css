@@ -16,6 +16,15 @@ p {
   line-height: 23px;
 }
 
+#right {
+  margin-top: -45px;
+  float: right;
+}
+
+#right_a {
+  font-size: 20px;
+}
+
 .one {
   margin-top: 30px;
   background: url(../img/kult/one.png);
