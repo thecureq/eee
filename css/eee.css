@@ -1,0 +1,103 @@
+body {
+overflow: scroll;
+}
+
+body::-webkit-scrollbar { width: 0; }
+
+.img {
+  /*position: fixed;*/
+  width: 663px;
+  height: 5882px;
+  margin: auto;
+}
+
+p {
+  margin-top: 25px;
+  line-height: 23px;
+}
+
+.one_ {
+  margin-top: 30px;
+  background: url(../img/eee_img/one.png);
+  width: 663px;
+  height: 472px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.two_ {
+  background: url(../img/eee_img/one.gif);
+  width: 663px;
+  height: 472px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.three_ {
+  background: url(../img/eee_img/two.png);
+  width: 663px;
+  height: 472px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.four_ {
+  background: url(../img/eee_img/three.png);
+  width: 663px;
+  height: 472px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.five_ {
+  background: url(../img/eee_img/five.png);
+  width: 663px;
+  height: 472px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.six_ {
+  background: url(../img/eee_img/three.gif);
+  width: 663px;
+  height: 472px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.seven_ {
+  background: url(../img/eee_img/seven.png);
+  width: 663px;
+  height: 472px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.eight_ {
+  background: url(../img/eee_img/six.png);
+  width: 663px;
+  height: 472px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.nine_ {
+  background: url(../img/eee_img/four.gif);
+  width: 663px;
+  height: 472px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.ten_ {
+  background: url(../img/eee_img/eight.png);
+  width: 663px;
+  height: 472px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.eleven_ {
+  background: url(../img/eee_img/nine.png);
+  width: 663px;
+  height: 472px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.twelve_ {
+  background: url(../img/eee_img/two.gif);
+  width: 388px;
+  height: 690px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
