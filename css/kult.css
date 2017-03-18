@@ -1,0 +1,68 @@
+body {
+overflow: scroll;
+}
+
+body::-webkit-scrollbar { width: 0; }
+
+.img {
+  /*position: fixed;*/
+  width: 663px;
+  height: 3300px;
+  margin: auto;
+}
+
+p {
+  margin-top: 25px;
+  line-height: 23px;
+}
+
+.one {
+  margin-top: 30px;
+  background: url(../img/kult/one.png);
+  width: 663px;
+  height: 472px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.two {
+  background: url(../img/kult/one.gif);
+  width: 663px;
+  height: 472px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.three {
+  background: url(../img/kult/two.png);
+  width: 663px;
+  height: 472px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.four {
+  background: url(../img/kult/two.gif);
+  width: 663px;
+  height: 472px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.five {
+  background: url(../img/kult/three.png);
+  width: 663px;
+  height: 472px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.six {
+  background: url(../img/kult/three.gif);
+  width: 663px;
+  height: 472px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.seven {
+  background: url(../img/kult/four.png);
+  width: 663px;
+  height: 472px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
