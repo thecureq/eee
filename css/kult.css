@@ -47,6 +47,7 @@ p {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
 .four {
   background: url(../img/kult/twoo.gif);
   width: 663px;
@@ -54,6 +55,7 @@ p {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
 .five {
   background: url(../img/kult/three.png);
   width: 663px;
@@ -61,6 +63,7 @@ p {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
 .six {
   background: url(../img/kult/three.gif);
   width: 663px;
@@ -68,6 +71,7 @@ p {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
 .seven {
   background: url(../img/kult/four.png);
   width: 663px;
